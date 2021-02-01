@@ -1,4 +1,2 @@
----
-title: "MOHAMED CHANDE"
+title: MOHAMED-CHANDE
 date: 2O21-02-01
----
