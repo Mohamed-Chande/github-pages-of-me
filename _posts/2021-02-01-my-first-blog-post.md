@@ -1,2 +1,4 @@
-title: MOHAMED-CHANDE
-date: 2O21-02-01
+---
+title: "Welcome to my blog"
+date: 2019-02-01
+---
